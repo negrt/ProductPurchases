@@ -12,4 +12,4 @@ A data structures project for product purchases. Binary search tree, queue, and 
 * Understanding Preorder, Inorder, Postorder algorithms
 
 # More
-A library. Manual test in main. Coding automated test. Manual test possible. No errors.
+A library. Manual test in main. I'm still coding the automated test. Manual test possible. No errors.
