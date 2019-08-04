@@ -7,7 +7,6 @@ A data structures project for product purchases. Binary search tree, queue, and 
 * How to create a binary search tree
 * How to create a queue
 * How to create a stack
-* How to create a binary search tree
 * How to create member overload functions
 * How to create non-member overload functions
-* Preorder, Inorder, Postorder
+* Understanding Preorder, Inorder, Postorder algorithms
