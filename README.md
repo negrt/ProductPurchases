@@ -1,5 +1,5 @@
 # Product Purchases
-A data structures project for product purchases. Binary search tree, queue, and stack implemented. Array list and linked list concepts used. A library. Manual test in main. Coding automated test.
+A data structures project for product purchases. Binary search tree, queue, and stack implemented. Array list and linked list concepts used.
 
 # What I learned
 * How to determine Big-O runtime cost
@@ -12,4 +12,4 @@ A data structures project for product purchases. Binary search tree, queue, and 
 * Understanding Preorder, Inorder, Postorder algorithms
 
 # More
-A static library. Manual test possible. Coding automated test.
+A library. Manual test in main. Coding automated test. Manual test possible. No errors.
