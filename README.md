@@ -1,5 +1,5 @@
 # Product Purchases
-A data structures project for product purchases. Binary search tree, queue, and stack implemented. Array list and linked list concepts used.
+A data structures project for product purchases. Binary search tree, queue, stack, array list, linked list, concepts implemented.
 
 # What I learned
 * How to determine Big-O runtime cost
